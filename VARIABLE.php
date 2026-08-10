@@ -28,5 +28,19 @@
 
 
     // BOOLEAN
+    $karyawan = true;
+    $online = false;
+    $for_sale = false;
 
+    // CONTOH SOAL
+
+    $Jumlah = 3;
+    $Makanan = "Burger";
+    $Harga = 30000;
+
+    echo "aku telah mengorder sebanyak {$Jumlah} x {$Makanan} dengan harga satuan {$Harga} <br>";
+
+    $total = $Jumlah * $Harga;
+
+    echo "jadi, totalnya adalah {$total} rupiah";
 ?>
