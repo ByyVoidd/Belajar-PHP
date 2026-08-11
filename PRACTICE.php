@@ -23,7 +23,8 @@
 
     $harga_akhir = $total_produk * $harga;
 
-    echo "Kamu telah memesan sebanyak {$total_produk} {$item} dengan harga {$harga_akhir}"
+    echo "Kamu telah memesan sebanyak {$total_produk} {$item} dengan harga satuan {$harga} <br>";
+    echo "Totalnya adalah: {$harga_akhir}";
 
 
 
