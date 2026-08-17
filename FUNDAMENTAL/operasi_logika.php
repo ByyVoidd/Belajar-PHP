@@ -34,4 +34,3 @@
         echo "Bisa ikut pemilu";
     }
 ?>
-
