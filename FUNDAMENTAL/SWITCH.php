@@ -1,6 +1,7 @@
 <?php
     $nilai = "A+";
 
+    
     switch($nilai) {
         case 'A+': 
             echo "100";
