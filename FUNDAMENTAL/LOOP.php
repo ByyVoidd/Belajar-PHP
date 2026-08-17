@@ -12,7 +12,6 @@
 
 <?php
     // WHILE LOOP
-
     $hitungan = 0;
 
     while ($hitungan < 20) {
