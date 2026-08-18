@@ -1,136 +1,67 @@
-### Halo! Saya adalah seorang siswa **Rekayasa Perangkat Lunak (RPL)** yang sedang mempelajari pemrograman dan pengembangan perangkat lunak.
 
-Repository ini dibuat sebagai dokumentasi perjalanan belajar saya dalam memahami **PHP dan Backend Web Development**, mulai dari fundamental PHP hingga penggunaan framework untuk membangun aplikasi web yang lebih terstruktur dan scalable.
+👤 PROFIL
 
-## 🏫 Student Profile
+Repository ini berisi dokumentasi perjalanan belajar PHP menggunakan materi tutorial dan latihan secara bertahap, mulai dari fundamental PHP hingga pembuatan aplikasi sederhana yang terhubung dengan database MySQL.
 
-* **Sekolah:** SMK Negeri 1 Surabaya
-* **Jurusan:** Rekayasa Perangkat Lunak (RPL)
-* **Kelas:** X RPL 1
-* **Email Sekolah:** [info@smkn1-sby.sch.id](mailto:info@smkn1-sby.sch.id)
+🏫 INFORMASI SEKOLAH
 
-## 🎯 Learning Goals
+- Sekolah: SMK Negeri 1 Surabaya
+- Jurusan: Rekayasa Perangkat Lunak (RPL)
+- Kelas: X RPL 1
+- Email Sekolah: info@smkn1-sby.sch.id
 
-Fokus pembelajaran dalam repository ini adalah:
+🛠️ Tools
 
-* Memahami fundamental PHP
-* Memahami konsep pemrograman seperti function, array, dan OOP
-* Membuat website dinamis menggunakan PHP
-* Memahami database dan CRUD
-* Mempelajari konsep REST API
-* Memahami struktur aplikasi backend
-* Menggunakan framework PHP dalam pengembangan aplikasi
-* Membuat project backend sebagai portofolio
+- PHP
+- Laragon
+- Visual Studio Code
+- MySQL
+- phpMyAdmin
+- Git & GitHub
 
-## 🛠️ Technologies
+📚 STRUKTUR PEMBELAJARAN
 
-### Backend
+01 - PHP Fundamentals
+02 - Variables & Data Types
+03 - Arithmetic
+04 - GET & POST
+05 - Math Functions
+06 - Conditional Statements
+07 - Logical Operators
+08 - Switch
+09 - For Loops
+10 - While Loops
+11 - Arrays
+12 - Associative Arrays
+13 - isset() & empty()
+14 - Radio Buttons
+15 - Checkboxes
+16 - Functions
+17 - String Functions
+18 - Sanitize & Validate Input
+19 - include()
+20 - Cookies
+21 - Sessions
+22 - Server Variables
+23 - Password Hashing
+24 - MySQL Connection
+25 - MySQL & phpMyAdmin
+26 - Insert Data
+27 - Query Data
+28 - Registration Form Project
 
-* PHP
-* MySQL
-* REST API
-* JSON
+🚀 Next Learning
 
-### PHP Framework
+Setelah menyelesaikan fundamental PHP, pembelajaran akan dilanjutkan dengan:
 
-* Laravel
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- PDO
+- CRUD Application
+- PHP Framework
+- Laravel
 
-### Frontend Support
+📝 DESKRIPSI
 
-* HTML
-* CSS
-* JavaScript
-* Tailwind CSS
-
-### Development Tools
-
-* Visual Studio Code
-* Git
-* GitHub
-* Composer
-* XAMPP / Laragon
-
-## 📚 Learning Roadmap
-
-```text
-PHP Fundamentals
-│
-├── Syntax & Variables
-├── Data Types
-├── Operators
-├── Conditional Statements
-├── Loops
-├── Functions
-├── Arrays
-└── Error Handling
-        │
-        ▼
-Object-Oriented Programming
-│
-├── Class & Object
-├── Constructor
-├── Encapsulation
-├── Inheritance
-├── Polymorphism
-└── Interface
-        │
-        ▼
-Web Development with PHP
-│
-├── Forms
-├── Sessions & Cookies
-├── Authentication
-├── File Handling
-└── Database Connection
-        │
-        ▼
-Database & CRUD
-│
-├── MySQL
-├── SQL
-├── Relationships
-├── CRUD
-└── Database Security
-        │
-        ▼
-Laravel
-│
-├── MVC Architecture
-├── Routing
-├── Controllers
-├── Blade
-├── Models
-├── Migrations
-├── Eloquent ORM
-├── Middleware
-└── Authentication
-        │
-        ▼
-Backend Projects
-│
-└── Fullstack Web Application
-```
-
-## 🚀 Project Goals
-
-Beberapa project yang akan dikembangkan selama proses belajar:
-
-* PHP CRUD Application
-* Authentication System
-* Student Management System
-* REST API
-* Blog Application
-* Laravel CRUD Application
-* Laravel Authentication System
-* Fullstack Web Application
-
-## 📖 Repository Purpose
-
-Repository ini digunakan untuk menyimpan materi, latihan, eksperimen, dan project yang saya kerjakan selama mempelajari **PHP dan Backend Development**.
-
-Setiap project menjadi bagian dari proses untuk meningkatkan kemampuan dalam **programming, database, software architecture, problem solving, dan web development**.
-
-## 🌱 Future Goals
-
-Setelah memahami fundamental PHP dan Laravel, saya ingin mampu membangun aplikasi web yang memiliki backend, database, authentication, API, serta frontend yang terintegrasi.
+Repository ini digunakan untuk menyimpan materi, latihan, dan project PHP selama proses pembelajaran. Pembelajaran dimulai dari fundamental PHP, penggunaan form dan session, hingga integrasi dengan MySQL database dan pembuatan registration form sederhana.
 
