@@ -13,7 +13,7 @@ Repository ini berisi dokumentasi perjalanan belajar **PHP** menggunakan materi 
 ## 🛠️ Tools
 
 * PHP
-* XAMPP
+* Laragon
 * Visual Studio Code
 * MySQL
 * phpMyAdmin
